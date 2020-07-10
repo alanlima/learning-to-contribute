@@ -1,9 +1,9 @@
 
 ## Command Execution Output
 - Command used to create the Application Load Balancer (ALB)
-```
-Add command here
-```
+  ```
+  done
+  ```
 
 - Details of the security group used
 ```
